@@ -317,9 +317,9 @@
         <div class="section">
           <h2 class="py-4">Services</h2>
           <p style="line-height: 2.8;">
-          IEDC is dedicated to helping the student community and graduate start-ups and, helps entrepreneurs turn ideas into viable businesses. It is located in Olympia Block, MKCE Campus which provides access to office space, business meeting hall, and other support services to new and budding start-ups, nurturing their development until they are ready to graduate onto an independent enterprise.<br>
-          The IEDC provides seed funding of up to ₹1 lakh for technology-oriented, innovative business ideas from students and faculty members. It encourages participation in various contests such as the Smart India Hackathon and other product development activities. The IEDC offers comprehensive mentoring and support to mobilize funds, create market access, enhance managerial skills, and more.
-        </p>
+          <span>&#127942;</span> is dedicated to helping the student community and graduate start-ups and, helps entrepreneurs turn ideas into viable businesses. It is located in Olympia Block, MKCE Campus which provides access to office space, business meeting hall, and other support services to new and budding start-ups, nurturing their development until they are ready to graduate onto an independent enterprise.<br>
+          <span>&#127942;</span> The IEDC provides seed funding of up to ₹1 lakh for technology-oriented, innovative business ideas from students and faculty members. It encourages participation in various contests such as the Smart India Hackathon and other product development activities. The IEDC offers comprehensive mentoring and support to mobilize funds, create market access, enhance managerial skills, and more.
+        </p>
         </div>
         
 
