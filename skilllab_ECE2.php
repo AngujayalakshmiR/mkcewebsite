@@ -213,13 +213,13 @@
     <div class="row">
             <div class="col-md-6">
                 <div class="image-container">
-                    <img src="img/skill_lab/E21.jpg" alt="Best Analytical Project Award" class="img-fluid">
+                    <img src="eih1.jpg" alt="Best Analytical Project Award" class="img-fluid">
                     <div class="image-title">Best Analytical Project Award (1st Prize, Cash Prize Rs.10000)</div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="image-container">
-                    <img src="img/skill_lab/E22.jpg" alt="Placement achievements" class="img-fluid">
+                    <img src="eih2.jpg" alt="Placement achievements" class="img-fluid">
                     <div class="image-title">Placement achievements</div>
                 </div>
             </div>

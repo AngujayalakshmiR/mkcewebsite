@@ -3,7 +3,7 @@
 
 <head>
   <link href="css/banner.css" rel="stylesheet">
-  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <!-- <link href="lib/animate/animate.min.css" rel="stylesheet"> -->
 
 
   <style>
@@ -361,12 +361,12 @@
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
 
-  <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
-  <script src="js/script.js"></script>
+  <script src="js/bootstrap.min.js"></script>  Bootstrap framework -->
+  <!-- <script src="js/script.js"></script>
   <script src="js/custom.js"></script>
 
-  <!-- Template Javascript -->
-  <script src="js/main.js"></script>
+  <!-- Template Javascript
+  <script src="js/main.js"></script> -->
 
 
   <script>

@@ -223,49 +223,49 @@
     <div class="slider">
         <!-- Slides with images and titles -->
         <div class="slides">
-            <<img src="img/skill_lab/E11.jpg" alt="Image 1">
+            <<img src="rf1.jpg" alt="Image 1">
                 <div class="title">Best Ansys Project Award-2023</div>
         </div>
 
         <div class="slides">
-            <img src="img/skill_lab/E12.jpg" alt="Image 2">
+            <img src="rf2.jpg" alt="Image 2">
             <div class="title">Best Solid Work Project Award-2024</div>
         </div>
 
         <div class="slides">
-            <img src="img/skill_lab/E13.jpg" alt="Image 3">
+            <img src="rf3.jpg" alt="Image 3">
             <div class="title">Hackfest-2023</div>
         </div>
 
         <div class="slides">
-            <<img src="img/skill_lab/E14.jpg" alt="Image 1">
+            <<img src="rf1.jpg" alt="Image 1">
                 <div class="title">Intelligent Innovators Hackathon (12H)-2023
                     Coimbatore</div>
         </div>
 
         <div class="slides">
-            <img src="img/skill_lab/E15.jpg" alt="Image 2">
+            <img src="rf2.jpg" alt="Image 2">
             <div class="title">SRM University Global Product Development-2023</div>
         </div>
 
         <div class="slides">
-            <img src="img/skill_lab/E16.jpg" alt="Image 3">
+            <img src="rf3.jpg" alt="Image 3">
             <div class="title">Electric Vehicle Innovation Challenge-2023
                 (Startup Contest-JK Tech solutions & Consultancy)</div>
         </div>
 
         <div class="slides">
-            <<img src="img/skill_lab/E17.jpg" alt="Image 1">
+            <<img src="rf1.jpg" alt="Image 1">
                 <div class="title">India Mobile Congress -2023(New Delhi)</div>
         </div>
 
         <div class="slides">
-            <img src="img/skill_lab/E18.jpg" alt="Image 2">
+            <img src="rf2.jpg" alt="Image 2">
             <div class="title">NIT Internship</div>
         </div>
 
         <div class="slides">
-            <img src="img/skill_lab/E19.jpg" alt="Image 3">
+            <img src="rf3.jpg" alt="Image 3">
             <div class="title">Axiscades Internship</div>
         </div>
 
