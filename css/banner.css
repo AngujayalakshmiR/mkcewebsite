@@ -1,0 +1,72 @@
+.imageban{
+	width:100%;
+	height:40vh;
+	background-position:center;
+	background-size:cover;
+	background-image: url("img/banner.png");  
+}
+.over2
+{
+	width:100%;
+	height:40vh;
+	background-color:rgba(37, 80, 172, 0.4);
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	color:white;
+	letter-spacing:2px;
+	font-size:3rem;
+}
+
+
+
+
+ /* Style the list */
+.kh {
+  padding: 10px 16px;
+  list-style: none;
+  background-color: red;
+  color: white;
+}
+
+
+
+
+ /* Style the list */
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: white;
+  content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+  color: yellow;
+  text-decoration: none;
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+} 
+
+	@media (max-width: 768px){ 
+  ul.breadcrumb{
+	    display: inline;
+	  width:100%;
+  font-size: 10px;
+}
+  } 

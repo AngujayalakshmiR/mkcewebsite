@@ -1,0 +1,43 @@
+
+.accordion-custom .accordion-item {
+    border: none;
+    margin-bottom: 15px
+}
+
+.accordion-custom .accordion-button {
+    background: var(--light);
+    border-radius: 12px;
+	 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.accordion-custom .accordion-button:not(.collapsed) {
+    color: #fff;
+    background: #091e3e;
+    box-shadow: none;
+}
+
+.accordion-custom .accordion-button:not(.collapsed)::after {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxNiAxNicgZmlsbD0nI2ZmZic+PHBhdGggZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMS42NDYgNC42NDZhLjUuNSAwIDAgMSAuNzA4IDBMOCAxMC4yOTNsNS42NDYtNS42NDdhLjUuNSAwIDAgMSAuNzA4LjcwOGwtNiA2YS41LjUgMCAwIDEtLjcwOCAwbC02LTZhLjUuNSAwIDAgMSAwLS43MDh6Jy8+PC9zdmc+)
+}
+
+.accordion-custom .accordion-body {
+    padding: 15px 25px 15px 25px;
+}
+
+/* our service */		
+				
+			.service .nav .nav-link {
+				background: #CCEDEC;
+				transition: .5s;
+			}
+
+			.service .nav .nav-link.active {
+				background: #60B8B5;
+			}
+
+			.service .nav .nav-link.active h4 {
+				color: #FFFFFF !important;
+			}
+			
+			
+			

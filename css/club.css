@@ -1,0 +1,43 @@
+.module {
+  background: transparent;
+      width: 90%; /* Adjust width as needed */
+    height:80%; /* Adjust height as needed */
+ 
+
+  margin: 3%;
+   text-align: center;
+    transition: transform 0.3s; /* Adding smooth transition */
+	    
+		background-image: url("1.png"); 
+		background-repeat: no-repeat; /* Prevent repeating the background */
+  background-size: 100% auto; /* Adjust the size as needed */
+}
+}
+
+
+  .module:hover {
+    transform: scale(1.1); /* Zoom effect on hover */
+  }
+.module > h4 {
+  padding: 1rem;
+  margin: 0 0 0.5rem 0;
+}
+.module > p {
+  padding: 0 1rem;
+   display: inline-block;
+    padding: 10px;
+    border: 1px solid #ccc;
+  border-radius: 20px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow */
+	background: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%); 
+	color:white;
+	transition: transform 0.3s; /* Adding smooth transition */
+	    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow */
+}
+
+.stripe-4 {
+  color: white;
+ /* Correct the URL with proper quotes */
+}
+
+

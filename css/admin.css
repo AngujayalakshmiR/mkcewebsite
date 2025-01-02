@@ -1,0 +1,36 @@
+.module {
+  background: white;
+      width: 90%; /* Adjust width as needed */
+    height:80%; /* Adjust height as needed */
+  border: 1px solid #ccc;
+  border-radius: 20px; 
+  margin: 3%;
+   text-align: center;
+    transition: transform 0.3s; /* Adding smooth transition */
+	    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow */
+}
+
+
+  .module:hover {
+    transform: scale(1.1); /* Zoom effect on hover */
+  }
+.module > h6 {
+  padding: 1rem;
+  margin: 0 0 0.5rem 0;
+}
+.module > p {
+  padding: 0 1rem;
+   display: inline-block;
+    padding: 10px;
+    border-radius: 50%; /* Round shape */
+    border: 2px solid #333; /* Border style and color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Shadow */
+	background-color:red;
+	color:white;
+}
+
+.stripe-4 {
+  color: white;
+  background: repeating-linear-gradient(-55deg, #222, #222 10px, #333 10px, #333 20px);
+}
+
